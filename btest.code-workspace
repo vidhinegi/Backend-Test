@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../railway_system/railway_system"
+		},
+		{
+			"path": "../../railway_system/static"
+		},
+		{
+			"path": "../../railway_system/templates"
+		},
+		{
+			"path": "../../railway_system/train_tracking"
+		}
+	]
+}
